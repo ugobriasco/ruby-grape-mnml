@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'activerecord', require: 'active_record'
+gem 'activesupport'
+gem 'grape'
+gem 'pry-byebug'
+gem 'rack'
